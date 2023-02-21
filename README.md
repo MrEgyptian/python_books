@@ -1,0 +1,61 @@
+- A functional start to computing with Python.pdf
+- Automate the boring stuff with Python.pdf
+- Bayesian Statistics in Python.pdf
+- Beginning Python - From Novice to Professional, Second Edition.pdf
+- Beginning Python Visualization.pdf
+- Black Hat Python.pdf
+- Burkhard Meier - Python GUI Programming Cookbook_ Develop functional and responsive user interfaces with tkinter and PyQt5-Packt Publishing (2019).pdf
+- Data Structures & Algorithms in Python.pdf
+- Designing Machine Learning Systems with Python.pdf
+- Effective Python.pdf
+- Expert Python Programming.pdf
+- Foundations of Python Network Programming.pdf
+- Functional Python Programming.pdf
+- Game Programming Ruby,Lua,Python.pdf
+- Gray Hat Python.pdf
+- Hacking Secret Cyphers with Python.pdf
+- High Performance Python.pdf
+- Introducing Python.pdf
+- Introduction to Computation and Programming using Python.pdf
+- Introduction to Computer Science using Python.pdf
+- Invent Your Own Computer Games with Python.pdf
+- Learn Python the Hard way 3rd Edition.pdf
+- Learning Geospatial Analysis with Python.pdf
+- Learning Python Design Patterns.pdf
+- Learning Python.pdf
+- Machine Learning in Python.pdf
+- Manoj Hans - Appium Essentials-Packt Publishing (2015).pdf
+- Natural Language Processing with Python.pdf
+- Numerical Methods in Engineering with Python3.pdf
+- Pro Python System Administration.pdf
+- Pro Python.pdf
+- Professional Python.pdf
+- Python - A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Enginners.pdf
+- Python 3 - A Complete Introduction to the Python Language, Second Edition.pdf
+- Python Cookbook 2nd Edition V413HAV.pdf
+- Python Cookbook 3rd Edition.pdf
+- Python Crash Course.pdf
+- Python Essential Reference, Fourth Edition.pdf
+- Python Networking Programming.pdf
+- Python Notebook Essentials.pdf
+- Python Penetration Testing Essentials.pdf
+- Python Programming.pdf
+- Python Projects.pdf
+- Python Rocket Reference.pdf
+- Python for Data Analysis.pdf
+- Python for Finance.pdf
+- Python for Google App Engine.pdf
+- Python for Secret Agents.pdf
+- Python for Unix and Linux Administration.pdf
+- README.md
+- Starting Out with Python.pdf
+- Test-Driven Development with Python.pdf
+- Testing Python.pdf
+- The Hacker's Guide to Python.pdf
+- The Practice of Computing Python.pdf
+- The Python Quick Syntax Reference.pdf
+- The Quick Python Book.pdf
+- Think Python.pdf
+- books.zip
+- python_no_snakes.zip
+- telethon.pdf
